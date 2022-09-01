@@ -244,7 +244,7 @@ alt="Unedit-for-Reddit"
 <details open="true">
 <summary>
 
-#### **_Code Snippets & Scripts_**
+#### **_Scripts & Tools_**
 
 </summary>
 <p align="left">
