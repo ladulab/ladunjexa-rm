@@ -41,7 +41,7 @@
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ladunjexa&theme=tokyonight">
 </details>
 
-<img alt="techstack" src="https://github.com/ladunjexa/ladunjexa/blob/main/assets/techstack.svg" width="36.5%" align="right"/>
+<img alt="techstack" src="https://github.com/ladunjexa/ladunjexa/blob/main/assets/techstack.svg" width="32.5%" align="right"/>
 
 ### <img src="https://online.fliphtml5.com/xndxj/hbpk/files/SlidePage/220104083819634.gif" height="30px" width="30px"/> **_Tech Stack_**
 
