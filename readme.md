@@ -28,7 +28,7 @@
 - <img alt="GIF" src="https://github.com/ladunjexa/ladunjexa/blob/main/assets/Developer.gif" width="25" /> &nbsp; I'm a self-taught **Software Developer**, familiar with coding since I was tween. <br>
 - <img src="https://github.com/ladunjexa/ladunjexa/blob/main/assets/message.gif?raw=true" width="25" />&nbsp;&nbsp; Studying for a **B.Sc. degree** in **Software Engineering** & **Computer-Science**. <br>
 - <img src="https://github.com/ladunjexa/ladunjexa/blob/main/assets/hyperkitty.gif?raw=true" width="20" />&nbsp;&nbsp;&nbsp; I'm interested in **Full-Stack Dev**, **Artificial Intelligence**, and **Algorithmic Trading**. <br>
-- &nbsp;&nbsp;<img src="https://github.com/ladunjexa/ladunjexa/blob/main/assets/lightning.gif?raw=true" width="12" />&nbsp;&nbsp;&nbsp;&nbsp;I'm currently intern in **Full-Stack Development**. <br>
+- &nbsp;&nbsp;<img src="https://github.com/ladunjexa/ladunjexa/blob/main/assets/lightning.gif?raw=true" width="12" />&nbsp;&nbsp;&nbsp;&nbsp;I'm currently specializing in **Full-Stack Development**. <br>
 - <img src="https://github.com/ladunjexa/ladunjexa/blob/main/assets/letterbox.gif?raw=true" width="25" /> &nbsp; You can reach me out at [**@ladunjexa**](https://t.me/ladunjexa) on Telegram. <br>
 
 <a href="https://github.com/ladunjexa">
