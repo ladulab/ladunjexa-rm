@@ -1,7 +1,7 @@
 <h2 align="center">
     Hi <img src="https://c.tenor.com/D5L3scQHFb4AAAAi/bt21-hi.gif" width="32px">, I'm Liron Abutbul<br>
     <a href="https://github.com/ladunjexa">
-        <img src="https://readme-typing-svg.herokuapp.com/?lines=SWE%20Student;Full-Stack%20Developer;Cross-Platform%20Developer&font=Fira&center=true&width=380&height=38&color=0056D2&vCenter=true&size=18&pause=1000" alt="typing-info">
+        <img src="https://readme-typing-svg.herokuapp.com/?lines=SWE%20Student;Full-Stack%20Developer;Cross-Platform%20Developer&font=Fira&center=true&width=380&height=38&color=0056D2&vCenter=true&size=16&pause=1000" alt="typing-info">
     </a>
     <a href="https://github.com/ladunjexa">
         <img src="https://raw.githubusercontent.com/ladunjexa/ladunjexa/output/github-contribution-grid-snake.svg" alt="snake" height="70%" width="70%"/>
@@ -11,9 +11,9 @@
     <a href="https://twitter.com/lironabutbul6" target="blank">
         <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="liron.abutbul" height="20" width="26" />
     </a>
-    <!---<a href="https://linkedin.com/in/liron.abutbul" target="blank">
+    <a href="https://linkedin.com/in/lironabutbul" target="blank">
         <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="liron.abutbul" height="20" width="26" />
-    </a>--->
+    </a>
     <a href="https://fb.com/liron.abutbul.773" target="blank">
         <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="liron.abutbul" height="20" width="26" />
     </a>
