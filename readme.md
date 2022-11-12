@@ -11,12 +11,14 @@
     <a href="https://twitter.com/lironabutbul6" target="blank">
         <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="liron.abutbul" height="20" width="26" />
     </a>
-    <a href="https://linkedin.com/in/liron.abutbul" target="blank">
+    <a href="https://linkedin.com/in/liron-abutbul" target="blank">
         <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="liron.abutbul" height="20" width="26" />
     </a>
+<!---
     <a href="https://fb.com/liron.abutbul.773" target="blank">
         <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="liron.abutbul" height="20" width="26" />
     </a>
+--->
     <a href="https://instagram.com/lironabutbul" target="blank">
         <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="liron.abutbul" height="20" width="26" />
     </a>
