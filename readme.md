@@ -45,6 +45,7 @@
 
 <img alt="techstack" src="https://github.com/ladunjexa/ladunjexa/blob/main/assets/techstack.svg" width="32.5%" align="right"/>
 
+<!--
 ### <img src="https://online.fliphtml5.com/xndxj/hbpk/files/SlidePage/220104083819634.gif" height="30px" width="30px"/> **_Tech Stack_**
 
 <p align="left"> &emsp;
@@ -173,7 +174,7 @@
   </a>
 </p>
 <h2></h2>
-
+-->
 <details>
 <summary>
 
