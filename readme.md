@@ -87,6 +87,10 @@ Also, I am highly interested in the _Financials Sector_ and _Entreprenuership_ <
 
 </details>
 
+<p align="center">
+    <img src="https://raw.githubusercontent.com/ladunjexa/ladunjexa/output/github-contribution-grid-snake.svg" alt="snake" height="70%" width="70%"/>
+</p>
+
 <!--
 <details align="center">
 <summary> <em>GitHub Graphs</em> </summary>
@@ -98,3 +102,4 @@ Also, I am highly interested in the _Financials Sector_ and _Entreprenuership_ <
 
 </details>
 -->
+
