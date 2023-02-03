@@ -1,4 +1,4 @@
-### Hi there! <img src="https://c.tenor.com/D5L3scQHFb4AAAAi/bt21-hi.gif" width="28px">
+### Hi there!
 
 I'm Liron. a full stack developer <img alt="GIF" src="https://github.com/ladunjexa/ladunjexa/blob/main/assets/Developer.gif" width="25" /> from _Israel_ 🇮🇱. I'm currently pursuing a _BSc_ in _Software Engineering & Computer Science_. In my spare time I do open-sourcing _(course-based or imaginative)_.
 
