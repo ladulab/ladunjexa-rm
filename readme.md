@@ -86,7 +86,9 @@ Also, I am highly interested in the _Financials Sector_ and _Entreprenuership_ <
 ![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-327FC7.svg?logo=github&logoColor=white)
 
 </details>
-
+<p align="right">
+<img alt="visitprofile" src="https://visitcount.itsvg.in/api?id=ladunjexa&icon=0&color=0"/>
+</p>
 <!--
 <details align="center">
 <summary> <em>GitHub Graphs</em> </summary>
@@ -98,7 +100,3 @@ Also, I am highly interested in the _Financials Sector_ and _Entreprenuership_ <
 
 </details>
 -->
-
-<p align="right">
-<img alt="visitprofile" src="https://visitcount.itsvg.in/api?id=ladunjexa&icon=0&color=0"/>
-</p>
