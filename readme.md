@@ -1,3 +1,7 @@
+<div align="right">
+<img alt="visitprofile" src="https://visitcount.itsvg.in/api?id=ladunjexa&icon=0&color=0"/>
+</div>
+    
 ### Hi there!
 
 I'm Liron. a full stack developer <img alt="GIF" src="https://github.com/ladunjexa/ladunjexa/blob/main/assets/Developer.gif" width="25" /> from _Israel_ 🇮🇱. I'm currently pursuing a _BSc_ in _Software Engineering & Computer Science_. In my spare time I do open-sourcing _(course-based or imaginative)_.
