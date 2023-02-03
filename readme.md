@@ -31,20 +31,6 @@ Also, I am highly interested in the _Financials Sector_ and _Entreprenuership_ <
     alt="DM me on Telegram"
     src="https://www.shareicon.net/data/256x256/2016/04/12/748374_logo_512x512.png"
   /></a>
-&nbsp;
-<a href="https://iwebdev.tech/" title="WEBDEV Website">
-  <img
-    width="24"
-    alt="WEBDEV Website"
-    src="https://avatars.githubusercontent.com/u/113832444?s=64&v=4"
-  /></a>
-&nbsp;
-<a href="https://bizz.iwebdev.tech/" title="BIZZ powered by WEBDEV">
-  <img
-    width="24"
-    alt="BIZZ powered by WEBDEV"
-    src="https://avatars.githubusercontent.com/u/116695745?s=64&v=4"
-  /></a>
   
 <details>
 <summary> <em>Tech Stack</em> </summary>
