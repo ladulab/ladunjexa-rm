@@ -47,7 +47,7 @@ Also, I am highly interested in the _Financials Sector_ and _Entreprenuership_ <
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black)](https://github.com/search?l=JavaScript&q=user%3Aladunjexa+language%3Ac&type=Repositories)
 [![Markdown](https://img.shields.io/badge/Markdown-000000.svg?logo=markdown&logoColor=white)](https://github.com/search?l=Markdown&q=user%3Aladunjexa+language%3Ac&type=Repositories)
 [![Python](https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white)](https://github.com/search?l=Python&q=user%3Aladunjexa+language%3Ac&type=Repositories)
-[![SASS](https://img.shields.io/badge/Sass-hotpink.svg?logo=SASS&logoColor=white)](https://github.com/search?l=Sass&q=user%3Aladunjexa+language%3Ac&type=Repositories)
+[![SASS](https://img.shields.io/badge/Sass-hotpink.svg?logo=SASS&logoColor=white)](https://github.com/search?l=SCSS&q=user%3Aladunjexa+language%3Ac&type=Repositories)
 [![TypeScript](https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&logoColor=white)](https://github.com/search?l=TypeScript&q=user%3Aladunjexa+language%3Ac&type=Repositories)
 
 #### 🧰 Frameworks, Platforms and Libraries
