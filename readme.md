@@ -6,31 +6,6 @@ At the end of 2022, I founded a freelance business 🚀 [iWEBDEV](https://bio.iw
 
 In the last few months, I have been dedicating some of my time to explore and understand the _behind-the-scenes_ tecnologies I use daily.
 Also, I am highly interested in the _financials sector_ and _entreprenuership_. <img src="https://github.com/ladunjexa/ladunjexa/blob/main/assets/lightning.gif?raw=true" width="12" />
-
-### Getting in touch
-
-[My Portfolio](https://lironabutbul.vercel.app)
-
-<a href="https://twitter.com/lironabutbul6" title="Follow me on Twitter">
-  <img
-    width="24"
-    alt="Follow me on Twitter"
-    src="https://raw.githubusercontent.com/trekhleb/trekhleb/master/assets/icons/twitter.svg"
-  /></a>
-&nbsp;
-<a href="https://www.linkedin.com/in/lironabutbul/" title="Follow me on LinkedIn">
-  <img
-    width="24"
-    alt="Follow me on LinkedIn"
-    src="https://raw.githubusercontent.com/trekhleb/trekhleb/master/assets/icons/linkedin.svg"
-  /></a>
-&nbsp;
-<a href="https://t.me/ladunjexa" title="DM me on Telegram">
-  <img
-    width="24"
-    alt="DM me on Telegram"
-    src="https://www.shareicon.net/data/256x256/2016/04/12/748374_logo_512x512.png"
-  /></a>
   
 <details>
 <summary> <em>Tech Stack</em> </summary>
@@ -86,6 +61,31 @@ Also, I am highly interested in the _financials sector_ and _entreprenuership_. 
 ![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-327FC7.svg?logo=github&logoColor=white)
 
 </details>
+
+### Getting in touch
+
+[My Portfolio](https://lironabutbul.vercel.app)
+
+<a href="https://twitter.com/lironabutbul6" title="Follow me on Twitter">
+  <img
+    width="24"
+    alt="Follow me on Twitter"
+    src="https://raw.githubusercontent.com/trekhleb/trekhleb/master/assets/icons/twitter.svg"
+  /></a>
+&nbsp;
+<a href="https://www.linkedin.com/in/lironabutbul/" title="Follow me on LinkedIn">
+  <img
+    width="24"
+    alt="Follow me on LinkedIn"
+    src="https://raw.githubusercontent.com/trekhleb/trekhleb/master/assets/icons/linkedin.svg"
+  /></a>
+&nbsp;
+<a href="https://t.me/ladunjexa" title="DM me on Telegram">
+  <img
+    width="24"
+    alt="DM me on Telegram"
+    src="https://www.shareicon.net/data/256x256/2016/04/12/748374_logo_512x512.png"
+  /></a>
 <p align="right">
 <img alt="visitprofile" src="https://visitcount.itsvg.in/api?id=ladunjexa&icon=0&color=0"/>
 </p>
