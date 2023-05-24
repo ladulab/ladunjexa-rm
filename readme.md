@@ -2,11 +2,12 @@
 
 I'm Liron. a full stack developer from _Israel_ 🇮🇱. I'm currently pursuing a _BSc_ in _Software Engineering & Computer Science_. In my spare time I do open-sourcing.
 
-At the end of 2022, I founded a freelance business 🚀 [iWEBDEV](https://bio.iwebdev.tech) in the field of **Cross-Platform Application Development**, who develops innovative _digital experience creations_ 🧠 - while integrating the latest and most advanced technologies, updated and compatible with customer's needs.
+I'm a freelance developer specializing in the exciting field of **Cross-Platform Application Development** 🚀, with a strong passion for creating innovative _digital experience creations_ 🧠 - while intergrate the latest and most advanced technologies, updated and copatible with customer's needs. You can learn more about my work and expertise by visting my website at [iwebdev.tech](https://bio.iwebdev.tech).
 
-In the last few months, I have been dedicating some of my time to explore and understand the _behind-the-scenes_ tecnologies I use daily.
-Also, I am highly interested in the _financials sector_ and _entreprenuership_. <img src="https://github.com/ladunjexa/ladunjexa/blob/main/assets/lightning.gif?raw=true" width="12" />
+In the last few months, I have been dedicating some of my time to explore and understand the _behind-the-scenes_ technologies I use daily.
+Also, I'm highly interested in the _financials sector_ and _entreprenuership_. <img src="https://github.com/ladunjexa/ladunjexa/blob/main/assets/lightning.gif?raw=true" width="12" />
 
+<!--
 <details>
 <summary> <em>Tech Stack</em> </summary>
 
@@ -61,6 +62,7 @@ Also, I am highly interested in the _financials sector_ and _entreprenuership_. 
 ![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-327FC7.svg?logo=github&logoColor=white)
 
 </details>
+-->
 
 ### Getting in touch
 
