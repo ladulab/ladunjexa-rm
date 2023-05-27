@@ -2,7 +2,7 @@
 
 I'm Liron. a full stack developer from _Israel_ 🇮🇱. I'm currently pursuing a _BSc_ in _Software Engineering & Computer Science_. In my spare time I do open-sourcing.
 
-I'm a freelance developer specializing in the exciting field of **Cross-Platform Application Development** 🚀, with a strong passion for creating innovative _digital experience creations_ 🧠 - while intergrate the latest and most advanced technologies, updated and copatible with customer's needs. You can learn more about my work and expertise by visting my website at [iwebdev.tech](https://bio.iwebdev.tech).
+I'm a freelance developer specializing in the exciting field of _**Cross-Platform Application Development**_ 🚀, with a strong passion for creating innovative _digital experience creations_ 🧠 - while intergrate the latest and most advanced technologies, updated and copatible with customer's needs. Feel free to explore at [iwebdev.tech](https://bio.iwebdev.tech) to discover more about my work and expertise.
 
 In the last few months, I have been dedicating some of my time to explore and understand the _behind-the-scenes_ technologies I use daily.
 Also, I'm highly interested in the _financials sector_ and _entreprenuership_. <img src="https://github.com/ladunjexa/ladunjexa/blob/main/assets/lightning.gif?raw=true" width="12" />
