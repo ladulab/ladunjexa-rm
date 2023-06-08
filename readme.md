@@ -66,7 +66,7 @@ Also, I'm highly interested in the _financials sector_ and _entreprenuership_. <
 
 ### Getting in touch
 
-[My Portfolio](https://lironabutbul.vercel.app)
+[My Portfolio](https://ladunjexa.vercel.app)
 
 <a href="https://expo.dev/@ladunjexa">
     <img
