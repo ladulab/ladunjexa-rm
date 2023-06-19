@@ -102,6 +102,13 @@ Also, I'm highly interested in the _financials sector_ and _entreprenuership_. <
     src="https://raw.githubusercontent.com/ladunjexa/ladunjexa/master/assets/icons/leetcode.svg"
     />
 </a>
+&nbsp;
+<a href="https://www.npmjs.com/~ladunjexa">
+    <img
+    width="24"
+    src="https://raw.githubusercontent.com/ladunjexa/ladunjexa/master/assets/icons/npm-icon.svg"
+    />
+</a>
 
 <p align="right">
 <img alt="visitprofile" src="https://visitcount.itsvg.in/api?id=ladunjexa&icon=0&color=0"/>
