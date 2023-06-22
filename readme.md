@@ -89,6 +89,13 @@ Also, I'm highly interested in the _financials sector_ and _entreprenuership_. <
     />
 </a>
 &nbsp;
+<a href="https://dev.to/@ladunjexa">
+    <img
+    width="25.9"
+    src="https://cdn.worldvectorlogo.com/logos/devto.svg"
+    />
+</a>
+&nbsp;
 <a href="https://t.me/ladunjexa">
     <img
     width="24"
